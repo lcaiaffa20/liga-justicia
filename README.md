@@ -5,3 +5,26 @@ Este proyecto se encarga de manejar los planes de la liga de la justicia
 
 ## Estos cambios son nuevos desde GitHub
 ## Estos cambios son nuevos desde mi repositorio local
+
+
+
+# h1
+## h2
+### h3
+#### h4
+##### h5
+###### h6
+
+
+* A
+* B
+* C
+* D
+* E
+  * e1
+  * e2
+  * e3
+ 
+![GitHub_logo](https://devopsdozen.com/wp-content/uploads/2015/08/github-logo-500x333.jpg)
+
+*Esto* es un _texto_
